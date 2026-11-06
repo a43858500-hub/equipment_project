@@ -47,7 +47,7 @@ class MaintenanceRequest(models.Model):
     created_at = models.DateTimeField("Создана", auto_now_add=True)
 
     class Meta:
-        verbose_name = "заявка"
+        verbose_name = "заявку"
         verbose_name_plural = "заявки"
         ordering = ["-created_at"]
 
