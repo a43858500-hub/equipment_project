@@ -1,0 +1,32 @@
+[
+  {
+    "inventory_number": "INV-001",
+    "name": "Токарный станок 16К20",
+    "status": "В работе"
+  },
+  {
+    "inventory_number": "INV-002",
+    "name": "Фрезерный станок ВМ127",
+    "status": "На ремонте"
+  },
+  {
+    "inventory_number": "INV-003",
+    "name": "Компрессор ременной",
+    "status": "В работе"
+  },
+  {
+    "inventory_number": "INV-004",
+    "name": "Сварочный аппарат Ресанта",
+    "status": "Резерв"
+  },
+  {
+    "inventory_number": "INV-005",
+    "name": "Погрузчик электрический",
+    "status": "В работе"
+  },
+  {
+    "inventory_number": "INV-006",
+    "name": "Пресс гидравлический",
+    "status": "Списано"
+  }
+]
